@@ -48,9 +48,9 @@ def create_config(
     # 数据集路径映射
     DATASET_PATHS = {
         "BOE": "/disk1/Data/BOE_trans_data/",
-        "AROD": "/disk1/Data/imed_Topcon_Normal_AROD/signal_crop_512/",
+       
         "RETOUCH":"/disk1//Data/RETOUCH/",
-        "NIDEK":"/disk1/Data/Nidek/",
+       
         "GOALS": "/disk1/Data/GOALS/"       
     }
     
